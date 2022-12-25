@@ -1,6 +1,6 @@
 # CrakInstagram
 
-Kasih Star Tod
+CrakInstagram Gratis
 
 $ - `pkg update && pkg upgrade`
 
